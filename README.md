@@ -13,7 +13,7 @@ The repository implements a Reinforcement Learning Task on a custom environment 
 * Cai, Mingyu, Hao Peng, Zhijun Li, and Zhen Kan, "Learning-based probabilistic LTL motion planning with environment and motion uncertainties", IEEE Transactions on Automatic Control (2020). [[PDF]](https://ieeexplore.ieee.org/abstract/document/9133331?casa_token=NHKWObUoH1gAAAAA:7LiLaAw6eKK0xoDnuJJbkgD9IpQPSHspUrD8UFfqS8qI8hn5zLwC64y7SSOtecC3i6GhFpovsg)
 
 ## Results
-The agent have been trained on the task: go to goal-1 and then to goal-2
+The agent have been trained on the task: go to goal-1 and then to goal-2 with maximum probability
 
 ![trajectory](/figures/tested_policy_SlipperyGrid_layout_1_g1-then-g2.png)
 <br><br>
