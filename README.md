@@ -26,7 +26,7 @@ Clone this repository and install the coressponding dependencies:
 ```
 git clone https:https://github.com/mingyucai/E-LDGBA_RL
 ```
-A executioin example:
+Execute the example:
 ```
 python3 main.py --env 'SlipperyGrid' --layout 'layout_1' --property 'g1-then-g2' 
 ```
