@@ -4,14 +4,14 @@
 
 # E-LDGBA-LTL
 
-[Project Webpage](https://github.com/mingyucai/E-LDGBA_RL/)
-
 The repository implements a Reinforcement Learning Task on a custom environment using temporal logic specifications. The project is based on the paper "[Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction](https://arxiv.org/abs/2010.06797)" (Mingyu Cai et al.) 
 
 The project applies a standard Reinforcement Learning algorithm based on the lcrl and csrl implementation provided at [LCRL](https://github.com/grockious/lcrl) and [CSRL](https://github.com/alperkamil/csrl).
 The reference of lcrl and csrl implementation:
 * Hasanbeig, M. , Abate, A. and Kroening, D, "Logically-Constrained Reinforcement Learning", CoRR abs/1801.08099, 2018. [[PDF]](https://arxiv.org/pdf/1801.08099.pdf)
 * Bozkurt, Alper Kamil, Yu Wang, Michael M. Zavlanos, and Miroslav Pajic, "Control synthesis from linear temporal logic specifications using model-free reinforcement learning", ICRA, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9196796?casa_token=lBgma99ebewAAAAA:kZ7lMUqWEV-TG_yKahMhbIOmIQ-8AW0FZjUHJTIeem30PbVL0ong6b7q9tJOrDY77dD8eS1YIw)
+
+[Project Webpage](https://github.com/mingyucai/E-LDGBA_RL/)
 
 ## Publications
 * Cai, Mingyu, Shaoping Xiao, and Zhen Kan, "Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction", arXiv preprint arXiv:2010.06797 (2020). [[PDF]](https://arxiv.org/abs/2010.06797)
