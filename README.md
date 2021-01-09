@@ -16,7 +16,6 @@ The repository implements a Reinforcement Learning Task on a custom environment 
 The agent have been trained on the task: go to goal-1 and then to goal-2
 
 ![trajectory](/figures/tested_policy_SlipperyGrid_layout_1_g1-then-g2.png)
-![stable_traning_distance](/figures/convergence_SlipperyGrid_layout_1_g1-then-g2.png)
 <br><br>
 ---------------------
 
