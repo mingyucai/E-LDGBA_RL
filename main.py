@@ -27,9 +27,9 @@ def parse_args():
                         help='Discount factor')
     parser.add_argument('-lr', '--learning_rate', metavar='LEARNING_RATE', default=0.9, type=float,
                         help='Learning rate')
-    parser.add_argument('-ep', '--epsilon', metavar='EPSILON', default=0.15, type=float,
+    parser.add_argument('-ep', '--epsilon', metavar='EPSILON', default=0.00, type=float,
                         help='Hyper-parameter for epsilon-greedy exploration')
-    parser.add_argument('-episode', '--episode_number', metavar='EPISODE_NUMBER', default=10000, type=int,
+    parser.add_argument('-episode', '--episode_number', metavar='EPISODE_NUMBER', default=1000, type=int,
                         help='Number of learning episodes')
     parser.add_argument('-iteration', '--iteration', metavar='ITERATION_NUM', default=4000, type=int,
                         help='The threshold of number of iterations in each learning episode')
