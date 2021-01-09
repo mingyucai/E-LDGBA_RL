@@ -3,7 +3,7 @@
 </p>
 
 # E-LDGBA-LTL
-The repository implements a Reinforcement Learning Task on a custom environment using temporal logic specifications. The project is based on the paper "[Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction](https://arxiv.org/abs/2010.06797)" (Mingyu Cai et al.) using a standard Reinforcement Learning algorithm based on the LCRL h implementation provided at [lcrl](https://github.com/grockious/lcrl).
+The repository implements a Reinforcement Learning Task on a custom environment using temporal logic specifications. The project is based on the paper "[Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction](https://arxiv.org/abs/2010.06797)" (Mingyu Cai et al.) using a standard Reinforcement Learning algorithm based on the LCRL implementation provided at [lcrl](https://github.com/grockious/lcrl).
 
 [Project Webpage](https://github.com/mingyucai/E-LDGBA_RL/)
 
