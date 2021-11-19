@@ -15,16 +15,6 @@
   organization={IEEE}
 }
 
-@article{cai2020learning,
-  title={Learning-based probabilistic LTL motion planning with environment and motion uncertainties},
-  author={Cai, Mingyu and Peng, Hao and Li, Zhijun and Kan, Zhen},
-  journal={IEEE Transactions on Automatic Control},
-  volume={66},
-  number={5},
-  pages={2386--2392},
-  year={2020},
-  publisher={IEEE}
-}
 </pre>
 
 <br>
