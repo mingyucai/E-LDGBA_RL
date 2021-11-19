@@ -51,17 +51,3 @@ python3 main.py --env 'SlipperyGrid' --layout 'layout_1' --property 'g1-then-g2'
 This benchmark shows an E-LDGBA built from LDGBA. 
 As for more samples, the LTL can be converted to LDGBA or LDBA by
 excellent tool OWL, which is available at (https://owl.model.in.tum.de/try/).
-
-## Reference
-Please use this bibtex entry if you want to cite this repository in your publication:
-
-```
-@article{cai2020reinforcement,
-  title={Reinforcement Learning Based Temporal Logic Control with Maximum Probabilistic Satisfaction},
-  author={Cai, Mingyu and Xiao, Shaoping and Kan, Zhen},
-  journal={arXiv preprint arXiv:2010.06797},
-  year={2020}
-}
-
-```
-
