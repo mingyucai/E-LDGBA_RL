@@ -14,9 +14,7 @@
   year={2021},
   organization={IEEE}
 }
-
 </pre>
-
 <br>
 
 
